@@ -1,18 +1,18 @@
 ### UdaciFitness
 
-UdaciFitness é um aplicativo para acompanhamento de triatlo(corrida, natação, ciclismo). 
+UdaciFitness is an app for tracking triathlon (running, swimming, cycling).lismo). 
 
-### Instalando
+### Instalation
 
 ```
 clone git https://github.com/gilmarvoge/UdaciFitness.git
 
-#para aplicação
+#run
 -cd UdaciFitness
 -yarn install
 -yarn start
 
--utilizado app Expo para emular android/iOS
+-use app Expo to emulate android/iOS
 ```
 
 ![](androidHistory.png)
